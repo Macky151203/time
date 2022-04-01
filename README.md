@@ -1,2 +1,3 @@
 # time
-nothing
+it just shows the time
+
